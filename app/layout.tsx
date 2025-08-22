@@ -17,7 +17,7 @@ const openSans = Open_Sans({
   variable: "--font-open-sans",
   weight: ["400", "500", "600"],
 })
-x 
+
 export const metadata: Metadata = {
   title: "Reynaldo Martinez - Tennis Coach",
   description:
